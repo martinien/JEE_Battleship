@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
 
 
-  <groupId>org.dmetzler.isen.puissance4</groupId>
-  <artifactId>puissance4-parent</artifactId>
+  <groupId>org.cocq_sorel.isen.battleship</groupId>
+  <artifactId>battleship-parent</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>ISEN JEE :: Puissance 4 parent</name>
+  <name>ISEN JEE :: Battleship</name>
   <packaging>pom</packaging>
   <description></description>
 
@@ -20,9 +20,9 @@
   </properties>
 
   <modules>
-    <module>puissance4-core</module>
-    <module>puissance4-jpa</module>
-    <module>puissance4-web</module>
+    <module>battleship-core</module>
+    <module>battleship-jpa</module>
+    <module>battleship-web</module>
   </modules>
 
 
@@ -203,13 +203,13 @@
       </dependency>
 
       <dependency>
-        <groupId>org.dmetzler.isen.puissance4</groupId>
-        <artifactId>puissance4-core</artifactId>
+        <groupId>org.dmetzler.isen.battleship</groupId>
+        <artifactId>battleship-core</artifactId>
         <version>${project.version}</version>
       </dependency>
       <dependency>
-        <groupId>org.dmetzler.isen.puissance4</groupId>
-        <artifactId>puissance4-jpa</artifactId>
+        <groupId>org.dmetzler.isen.battleship</groupId>
+        <artifactId>battleship-jpa</artifactId>
         <version>${project.version}</version>
       </dependency>
 
