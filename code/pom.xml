@@ -26,8 +26,7 @@
     <module>jaxrs-blog</module>
     <module>jsf-blog</module>
     <module>puissance4</module>
-
-
+    <module>org.cocq_sorel.isen.battleship_battleship-parent_pom_1.0-SNAPSHOT</module>
   </modules>
 
 </project>

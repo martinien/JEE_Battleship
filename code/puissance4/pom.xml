@@ -203,12 +203,12 @@
       </dependency>
 
       <dependency>
-        <groupId>org.dmetzler.isen.battleship</groupId>
+        <groupId>org.cocq_sorel.isen.battleship</groupId>
         <artifactId>battleship-core</artifactId>
         <version>${project.version}</version>
       </dependency>
       <dependency>
-        <groupId>org.dmetzler.isen.battleship</groupId>
+        <groupId>org.cocq_sorel.isen.battleship</groupId>
         <artifactId>battleship-jpa</artifactId>
         <version>${project.version}</version>
       </dependency>
